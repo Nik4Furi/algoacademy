@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Sofia+Sans:ital,wght@0,200;0,400;1,200&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+  --main-font: 'Sofia Sans', sans-serif;
+  --primary-bg:#d63384;
+  --secondary-bg:rgb(88, 53, 88);
+}
+
+.f1 {
+  font-family: var(--main-font) !important;
+}
+.btn-danger{
+
+  background-color: var(--primary-bg);
+}
+.btn-purple{
+  font-weight: bold;
+  color: wheat;
+  background: var(--secondary-bg);
+}
+.btn-danger:hover, .btn-purple:hover,.btn-danger:active, .btn-purple:active,.btn-active{
+  background: black;
+  color: white;
+}
+.text-highlight {
+  color: salmon;
+  font-family: var(--main-font);
+  font-weight: bold;
+}

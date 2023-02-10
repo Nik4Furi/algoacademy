@@ -1,0 +1,73 @@
+[
+    {
+        "cate":"softwares",
+        "img": "img/courses/softs/soft_1.jpg",
+        "title": "Learn Adobe XD from scratch",
+        "description": "Adobe XD is a powerful and easy-to-use vector-based experience design platform that gives teams the tools they need to craft the world's best experiences collaboratively."
+    },
+    {
+        "cate":"softwares",
+        "img": "img/courses/softs/soft_2.png",
+        "title": "Learn Figma from scratch",
+        "description": "Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows. The feature set of Figma focuses on user interface and user experience design, with an emphasis on real-time collaboration, utilising a variety of vector graphics editor and prototyping tools"
+    },
+    {
+        "cate":"softwares",
+        "img": "img/courses/softs/soft_3.jpg",
+        "title": "Learn In Vission from scratch",
+        "description": "InVision is a company that offers leading product design and development platform for teams that are developing digital products. Its inclusive platform and services allow creative collaboration across teams and geographies for enhanced speed to market and powerful business results."
+    },
+    {
+        "cate":"softwares",
+        "img": "img/courses/softs/soft_4.gif",
+        "title": "Learn Illustration from scratch",
+        "description": "An illustration is a decoration, interpretation or visual explanation of a text, concept or process, designed for integration in print and digital published media, such as posters, flyers, magazines, books, teaching materials, animations, video games and films. An illustration is typically created by an illustrator."
+    },
+    
+    {
+        "cate":"webdevlopment",
+        "img": "img/courses/webdev/webdev_1.png",
+        "title": "Learn Basics Of Web development",
+        "description": "With help this basic web development course, to get more information about and get your ideas simplization 'Which stack i use?','What career oppurtunites is open for beginers?', or more question you ask in this course <span className='text-highlight'> 1 on 1</span>"
+    },
+    {
+        "cate":"webdevlopment",
+        "img": "img/courses/webdev/webdev_2.jfif",
+        "title": "Learn Advace of web development from scratch",
+        "description": "Join our advance web development course and with help of them make your career in the field and pluck out more oppurtunites."
+    },
+
+    {
+        "cate":"appdevlopment",
+        "img": "img/courses/appdev/appdev_1.jfif",
+        "title": "Learn Android development from scratch",
+        "description": "Join our <span className='text-highlight'>'Android Software Development'</span>, is the process by which applications are created for devices running the Android operating system. Google states that\"Android apps can be written using Kotlin, Java, and C++ languages\"."
+    },
+    {
+        "cate":"appdevlopment",
+        "img": "img/courses/appdev/appdev_2.png",
+        "title": "Learn ios development from scratch",
+        "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones.\n Join our course, and made your future in <span className='text-highlight'> IOS Developer</span>"
+    },
+    {
+        "cate":"appdevlopment",
+        "img": "img/courses/appdev/appdev_3.jfif",
+        "title": "Learn flutter from scratch",
+        "description": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross-platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia,and the web from a single codebase\nJoin our flutter course its help you in to <span className='text-highlight'>achiving the role</span> in the company"
+    },
+    
+    
+    {
+        "cate":"interviews",
+        "img": "img/courses/interv/interv_1.jfif",
+        "title": "Prepare your interviews",
+        "description": "To improve your interviews skills,Join this master in your interview skills. Now enroll in the our course and this course is now open for everyone but in the future is converting into the paid"
+    },
+    {
+        "cate":"contests",
+        "img": "img/contests/conts/conts_1.png",
+        "title": "Reverse the array",
+        "description": "&lt;b&gt;Query:$lt;/b$gt; a given array is in the form of sorting, then you pick one prospective(Assending or Desending), revering the array elements",
+        "link":""
+    }
+]

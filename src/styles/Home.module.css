@@ -1,0 +1,34 @@
+.header{
+    /* color: red !important; */
+    position: relative;
+}
+.header::before{
+    content: '';
+    position: absolute; 
+    top: 0%;
+    left: 0%; 
+    width: 100%;
+    height: 100%;
+    background-color: rgb(228, 220, 231); 
+    clip-path: polygon(0 0, 80% 0%, 35% 100%, 0% 100%);
+
+    z-index: -1;
+opacity: 0.8;
+
+}
+.clip_2{
+    position: relative;
+}
+.clip_2::before{
+    content: '';
+    position: absolute; 
+    top: 0%;
+    left: 0%; 
+    width: 100%;
+    height: 100%;
+    background-color: rgb(228, 220, 231);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 100% 100%);
+
+    z-index: -1;
+opacity: 0.8;
+}

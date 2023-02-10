@@ -1,0 +1,20 @@
+[
+    {
+        "cate":"softs",
+        "img": "img/courses/softs/soft_1.jpg",
+        "title": "Learn Adobe XD from scratch",
+        "description": "Adobe XD is a powerful and easy-to-use vector-based experience design platform that gives teams the tools they need to craft the world's best experiences collaboratively."
+    },
+    {
+        "cate":"webdev",
+        "img": "img/courses/webdev/webdev_1.png",
+        "title": "Learn Basics Of Web development",
+        "description": "With help this basic web development course, to get more information about and get your ideas simplization 'Which stack i use?','What career oppurtunites is open for beginers?', or more question you ask in this course <span className='text-highlight'> 1 on 1</span>"
+    },
+    {
+        "cate":"interv",
+        "img": "img/courses/interv/interv_1.jfif",
+        "title": "Prepare your interviews",
+        "description": "To improve your interviews skills,Join this master in your interview skills. Now enroll in the our course and this course is now open for everyone but in the future is converting into the paid"
+    } 
+]
